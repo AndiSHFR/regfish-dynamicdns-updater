@@ -31,7 +31,7 @@ Here an example:
 ## Advice
 Please keep in mind that the batch file contains your secret token used to update your dns entries. So keep the script at a safe place and limit access to it using windows filesystem security.
 
-If you think the token has been leaked to anyone you need to change the token on the regfish configuraiton page and update it in the script (and of course other hosts using the dyndns update technique or regfish).
+If you think the token has been leaked to anyone you need to change the token on the regfish configuraiton page and update it in the script (and of course other hosts using the dyndns update technique of regfish).
 
 
 
